@@ -1,0 +1,2 @@
+# Shoolapp
+Automatic schools Activities
